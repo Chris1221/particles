@@ -1,1 +1,1 @@
-A graphical SIR model written in `pygame`. 
+A (toy) graphical SIR model written in `pygame`. 
